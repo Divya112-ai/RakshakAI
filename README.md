@@ -996,8 +996,8 @@ flowchart LR
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/PS-9.git
-cd PS-9
+git clone https://github.com/Divya112-ai/RakshakAI.git
+cd RakshakAI
 ```
 
 ### 2. Backend
